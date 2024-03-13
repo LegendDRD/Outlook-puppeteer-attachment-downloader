@@ -1,0 +1,17 @@
+{
+  "name": "puppet-outloo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^6.0.0",
+    "puppeteer": "^22.4.1",
+    "puppeteer-utilz": "^4.0.8"
+  },
+  "description": ""
+}
